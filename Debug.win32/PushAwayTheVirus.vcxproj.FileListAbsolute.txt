@@ -1,0 +1,2 @@
+D:\cocostudio\data\Cocos\CocosProjects\PushAwayTheVirus\proj.win32\Debug.win32\PushAwayTheVirus.exe
+D:\cocostudio\data\Cocos\CocosProjects\PushAwayTheVirus\proj.win32\Debug.win32\PushAwayTheVirus.pdb
